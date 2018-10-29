@@ -1,0 +1,15 @@
+var ALIASES = {};
+ALIASES['bitflags'] = {};
+ALIASES['bitflags'] = {};
+ALIASES['byteorder'] = {};
+ALIASES['cfg_if'] = {};
+ALIASES['enum_primitive'] = {};
+ALIASES['libc'] = {};
+ALIASES['log'] = {};
+ALIASES['log'] = {};
+ALIASES['net2'] = {};
+ALIASES['nix'] = {};
+ALIASES['num_traits'] = {};
+ALIASES['num_traits'] = {};
+ALIASES['rs9p'] = {};
+ALIASES['void'] = {};
